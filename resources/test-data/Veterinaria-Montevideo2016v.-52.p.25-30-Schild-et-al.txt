@@ -1,0 +1,471 @@
+Conidiobolomicosis nasal en una oveja (Ovis aries) en Uruguay
+Nasal conidiobolomycosis in a sheep (Ovis aries) in Uruguay
+Schild CO1*, Caffarena RD1, Rabaza A1, Banchero G2, Giannitti F1,3, Dantas AF4, Maia LA4, Riet-Correa F1
+1- Plataforma de Investigación en Salud Animal, Instituto Nacional de Investigación Agropecuaria (INIA). Ruta 50, km 11, CC 39173, La Estanzuela,
+Colonia, Uruguay.
+2- Unidad de investigación en Ovinos, Instituto Nacional de Investigación Agropecuaria (INIA), La Estanzuela, Colonia, Uruguay.
+3- University of Minnesota Veterinary Diagnostic Laboratory, Saint Paul, MN, USA.
+4- Hospital Veterinario, Universidade Federal de Campina Grande, Patos, Paraíba, Brasil.
+*Autor para correspondencia: cschild@le.inia.org.uy / schild.co@gmail.com
+
+Veterinaria (Montevideo) Volumen 52
+Nº 202 (2016) 25-30
+
+Recibido: 6/3/2016
+Aceptado: 11/4/2016
+
+Resumen
+
+Summary
+
+La conidiobolomicosis es una enfermedad causada por Conidiobolus spp. que afecta a varias especies de animales,
+incluyendo ovinos, llamas, ciervos, caballos, perros y humanos. En ovinos se caracteriza por lesiones granulomatosas
+en la cavidad nasal. Aunque la enfermedad es endémica en
+distintas regiones de Brasil, aún no ha sido reportada en Uruguay. El objetivo de este trabajo es describir un caso de conidiobolomicosis nasal en una oveja en Uruguay y proveer una
+breve revisión bibliográfica. El caso ocurrió en marzo del
+2015 en una oveja de 19 meses de edad en un establecimiento ubicado en el departamento de Colonia. Los principales
+signos clínicos fueron debilidad, secreción nasal, obnubilación, torneo y exoftalmos unilateral. Los principales hallazgos
+patológicos fueron rinosinusitis granulomatosa necrotizante
+localmente extensiva, afectando la región posterior de la cavidad nasal, con desplazamiento del tabique nasal y osteítis
+necrotizante/osteolítica de los huesos faciales, con extensión
+al tejido subcutáneo facial y espacio retro-ocular derechos.
+Microscópicamente se constató la presencia de hifas intralesionales, identificadas por inmunohistoquímica como Conidiobolus spp., rodeadas por material de Splendore-Hoeppli.
+Se concluye que la conidiobolomicosis ocurre esporádicamente en Uruguay y que debe ser considerada dentro de los
+diagnósticos diferenciales de rinitis en ovinos en este País.
+
+Conidiobolomycosis is a disease caused by Conidiobolus
+spp. that affects several animal species including sheep, llamas, deer, horses, dogs and humans. In sheep it is characterized by granulomatous lesions affecting the nasal cavity. Although conidiobolomycosis is endemic in different regions
+of Brazil, the condition has not been reported in Uruguay.
+The aims of this study are to describe a case of nasal conidiobolomycosis in a sheep in Uruguay, and to provide a
+short literature review. The case occurred in March 2015 in
+a 19-month-old ewe in the department of Colonia. The main
+clinical signs were nasal discharge, weakness, obtundation,
+circling and unilateral exophthalmos. The main pathologic
+findings were locally extensive granulomatous and necrotizing rhinosinusitis in the posterior aspect of the nasal cavity,
+with displacement of the nasal septum and necrotizing osteochondritis/osteitis of the nasal septum and frontal bone, with
+extension into the subcutaneous tissue and right retro-ocular space. Microscopically, there were intralesional hyphae,
+identified as Conidiobolus spp. by immunohistochemistry,
+surrounded by Splendore-Hoeppli material. We conclude
+that conidiobolomycosis occurs sporadically in Uruguay and
+should be considered in the differential diagnoses for rhinitis
+in sheep in this country.
+
+Keywords:
+
+Palabras clave:
+
+Conidiobolus spp., micosis profundas, ovinos, rinitis.
+
+Conidiobolus spp., deep mycosis, rhinitis, sheep
+
+25
+
+etmoidal, cornetes nasales, senos paranasales, paladar blando, cavidad ocular, faringe; y la menos frecuente, que afecta
+la región rinofacial incluyendo el vestíbulo nasal, la unión
+mucocutánea de los ollares y, en ocasiones, el paladar duro
+(Câmara y col., 2011; Riet-Correa y col., 2008; Silva y col.,
+2007a; Ubiali y col., 2013). Los signos incluyen secreción
+nasal serosa, mucosa o serosanguinolenta, fiebre, apatía,
+anorexia, pérdida de peso y dificultad respiratoria marcada
+(Pedroso y col., 2009; Riet-Correa y col., 2008; Silva y col.,
+2007a; Ubiali y col., 2013). En la forma rinofaríngea, además, se puede observar exoftalmos unilateral, que a menudo
+se asocia con marcada asimetría cráneo-facial, inflamación
+y ulceración de la córnea y ceguera. Como resultado de la
+expansión de la lesión al lóbulo frontal del cerebro, algunas
+ovejas pueden presentar signos nerviosos, incluyendo obnubilación, torneo, posturas anormales de la cabeza y presión
+cefálica contra objetos (Boabaid y col., 2008; Silva y col.,
+2007a). El periodo de evolución, desde que aparecen los
+signos hasta la muerte del animal, suele ser de 7 a 20 días
+(Mendonça y col., 2012; Riet-Correa y col., 2008).
+Durante el examen postmortem, la sección sagital de la cabeza muestra lesiones macroscópicas caracterizadas por granulomas nasales de color blanco-amarillento, gris o marrón, de
+superficie lisa o rugosa, consistencia firme o friable (Aguiar
+y col., 2014; Silva y col., 2007a; Ubiali y col., 2013). En la
+región rinofaríngea la lesión se asienta en la región etmoidal,
+cornetes nasales y faringe o músculos que la rodean. Esta
+lesión puede expandirse a la órbita ocular, tejido subcutáneo
+periocular y senos paranasales (Boabaid y col., 2008; Furlan
+y col., 2010; Silva y col., 2007a; Ubiali y col., 2013). Las
+lesiones rinofaciales suelen causar una deformación visible
+de la cavidad y fosas nasales, labio superior y piel de dicha
+región. El paladar duro puede presentar úlceras (Aguiar y
+col., 2014; Riet-Correa y col., 2008). El agente se puede diseminar causando lesiones granulomatosas en otros órganos
+incluyendo pulmón, linfonódulos, hígado, abomaso, intestinos y riñones (Boabaid y col., 2008; Portela y col., 2010;
+Riet-Correa y col., 2008; Ubiali y col., 2013).
+Microscópicamente, las lesiones se caracterizan por granulomas con áreas centrales de necrosis en las que se observan
+hifas fúngicas (Silva y col., 2007a) rodeadas por material
+de Splendore-Hoeppli (Aguiar y col., 2014; Riet-Correa y
+col., 2008; Silva y col., 2007a; Ubiali y col., 2013). Pueden
+observarse, también, vasculitis y trombosis resultantes de la
+invasión por el hongo. Cuando las lesiones se extienden a
+los cornetes nasales y la placa cribiforme del etmoides, suele haber osteomielitis y cuando el hongo invade el sistema
+nervioso central, meningoencefalitis (Câmara y col., 2011;
+Silva y col., 2007a). Debido a que no es posible diferenciar
+correctamente las hifas en cortes histológicos teñidos con
+HE, se requiere de coloraciones especiales como las de GMS
+(Gomori’s Methenamine Silver) o PAS (ácido periódico de
+Schiff) (Portela y col., 2010; Riet-Correa y col., 2008; Silva
+y col., 2007a; Ubiali y col., 2013). La técnica de inmunohistoquímica (IHQ) con anticuerpos primarios contra Conidiobolus spp. permite identificar el hongo a nivel de género
+(Ubiali y col., 2013). El cultivo micológico también puede
+ser utilizado como un método diagnóstico preciso (Vilela y
+col., 2010); sin embargo, requiere más tiempo que la IHQ y
+las muestras enviadas al laboratorio deben ser frescas y estar
+bien conservadas (Ubiali y col., 2013). La técnica de PCR
+es una opción segura para el diagnóstico, ya que posee una
+elevada sensibilidad y especificidad en tejidos frescos, pero
+
+Introducción
+Las zygomicosis (zygomycosis o cigomicosis) son enfermedades causadas por hongos de la clase Zigomicetos, dentro de
+la cual dos órdenes son de importancia médica: el orden Mucorales, que incluye los géneros Rhizopus, Mucor, Absidia y
+Rhizomucor; y el orden Entomophthorales, que incluye los
+géneros Basidiobolus y Conidiobolus. Los Zigomicetos son
+saprófitos con amplia distribución en la naturaleza, y pueden
+causar infecciones por vía cutánea, respiratoria o digestiva,
+que suelen ser resultado de contaminación ambiental y no
+del contagio directo entre animales. Las principales diferencias en el curso de las enfermedades y la distribución de las
+lesiones inducidas por estos agentes radican en que las mucormicosis suelen ser infecciones diseminadas y de progresión rápida que ocurren en individuos inmunocomprometidos,
+mientras que las entomoftoromicosis, por lo general, son infecciones localizadas de la cavidad nasal o tejido subcutáneo,
+que ocurren principalmente en individuos inmunocompetentes (Mauldin y Peters-Kennedy, 2015).
+La conidiobolomicosis es causada por hongos del género Conidiobolus, en el que se distinguen tres especies que afectan
+a los animales: Conidiobolus coronatus, Conidiobolus lamprauges y Conidiobolus incongruus. Si bien la enfermedad
+se ha reportado principalmente en ovinos (Ketterer y col.,
+1992; Silva y col., 2007a; Riet-Correa y col., 2008; Ubiali y
+col., 2013), ocurre también en llamas (French y Ashworth,
+1994), ciervos (Stephens y Gibson, 1997), caballos (Humber
+y col., 1989), perros (Grooters, 2003; Mackey y col., 2015)
+y humanos (Hoogendjik y col., 2006; Kimura y col., 2011;
+Yang y col., 2010). En Uruguay, la conidiobolomicosis no ha
+sido descripta hasta este momento, mientras que en Brasil es
+endémica en ovinos de las regiones semiáridas de los estados
+de Piauí, Paraíba (Portela y col., 2010; Riet-Correa y col.,
+2008; Ubiali y col., 2013), Rio Grande do Norte (Câmara
+y col., 2011), Pernambuco (Mendonça y col., 2012) y Mato
+Grosso (Boabaid y col., 2008; Silveira y col., 2013; Ubiali
+y col., 2013), y esporádica en el estado de Santa Catarina
+(Furlan y col., 2010), así como en Australia (Carrigan y col.,
+1992; Ketterer y col., 1992) y en Trinidad y Tobago (Morris
+y col., 2001).
+El hábito de pastorear cerca del suelo es, posiblemente, un
+factor predisponente para la ocurrencia de la enfermedad en
+ovinos, debido a la inhalación de conidios de hongos del suelo o de la vegetación en descomposición (Aguiar y col., 2014;
+Silva y col., 2007b), o a través de contaminación de heridas
+de la mucosa nasal (Ketterer y col., 1992). La alta humedad y
+temperatura promueven el crecimiento de estos hongos tanto
+en el suelo como en la vegetación en descomposición, lo que
+explicaría la ocurrencia de brotes durante los veranos lluviosos (Furlan y col., 2010; Silva y col., 2007b), sobre todo si
+las ovejas se mantienen en áreas inundadas (Riet-Correa y
+col., 2008). En la región semiárida de Paraíba y Rio Grande
+do Norte, con precipitaciones de 350 a 800 mm/año, humedad media relativa del 50% y estación seca prolongada, la
+enfermedad también es frecuente (Aguiar y col., 2014; Silva
+y col., 2007a) debido, al pastoreo en márgenes de las aguadas
+con presencia de material vegetal muerto de plantas acuáticas
+y alta presión de pastoreo (Aguiar y col., 2014).
+Clínicamente, la enfermedad se puede presentar de dos formas: la más frecuente, que afecta la región rinofaríngea y
+
+26
+
+tienden a disminuir en muestras fijadas en formol (Benerini
+Gatta y col., 2012; Silveira y col., 2013). Técnicas inmunológicas como el ELISA permiten detectar anticuerpos séricos
+en animales que han estado en contacto con C. lamprauges
+(Silva y col., 2015).
+El tratamiento con antifúngicos del grupo de los azoles (fluconazole, itraconazole, ketoconazole y cotrimoxazole), ioduro de potasio y anfotericina B o la intervención quirúrgica
+(Mackey y col., 2015), han demostrado ser efectivos en el
+tratamiento de la conidiobolomicosis nasal en equinos (Taintor y col., 2004), humanos (Yang y col., 2010) y caninos (Mackey y col., 2015). En los ovinos, el tratamiento a base de fluconazol (10 mg/kg de peso corporal) por vía oral o intravenosa cada 3 días y el tratamiento con ioduro de potasio (1 gr/día
+por 15 días) fueron ineficaces (Boabaid y col., 2008; Portela
+y col., 2010). Estas fallas podrían explicarse por el avanzado
+grado de extensión de las lesiones que presentan los animales
+al inicio del tratamiento, (Riet-Correa y col., 2008), o por una
+insuficiente duración del periodo de tratamiento. En Brasil,
+donde la enfermedad es frecuente y la letalidad es de 100%
+(Aguiar y col., 2014; Silva y col., 2007a), la falta de respuesta al tratamiento hace que muchos productores abandonen la
+cría de ovinos (Carmo, 2014). En lugares donde la enfermedad es endémica, es posible minimizar la ocurrencia de casos
+tomando medidas tales como: disminuir la presión de pastoreo en los márgenes de las lagunas; realizar implantación de
+pasturas en dichas áreas y dividirlas en superficies que puedan rotarse pero manteniendo una presión de pastoreo baja;
+limitar el acceso de los animales a dichas áreas, o utilizarlas
+para la producción de otros forrajes (Aguiar y col., 2014).
+Los objetivos de este trabajo son describir un caso de conidiobolomicosis nasal en una oveja de Uruguay.
+
+nado al 10% por 48 horas y procesadas en el laboratorio de
+salud animal de INIA La Estanzuela; posteriormente fueron
+incluidas en parafina, seccionadas a 4 micras de espesor,
+teñidas con HE y examinadas bajo microscopio óptico. Algunos tejidos (mucosa nasal, tejido subcutáneo) fueron seleccionados y teñidos con las coloraciones de GMS y PAS
+(Carson y Cappellano, 2015). Para la confirmación del agente etiológico, un fragmento de tejido afectado fue enviado
+a la Universidad Federal de Mato Grosso donde se realizó
+IHQ con un anticuerpo primario policlonal anti-Conidiobolus lamprauges (Ubiali y col., 2013), utilizando el complejo
+estreptavidina-biotina-peroxidasa y el cromógeno 3,3-diaminobenzidina (DAB). Como control negativo fueron utilizados cortes seriados de las mismas muestras, con substitución del anticuerpo primario por solución salina tamponada
+(PBST). Como control positivo fue utilizada una muestra de
+tejido de un ovino con conidiobolomicosis (Portela y col.,
+2010).
+
+Resultados
+La enfermedad afectó a una oveja hembra, Frisona Milchschaf de 19 meses de edad, perteneciente a un lote de 342 ovejas, que había sido incorporado a la majada general del establecimiento de Colonia en febrero de 2015. Esta provenía de
+un establecimiento ubicado en el departamento de Lavalleja,
+donde recibían una alimentación a base de campo natural y
+tenían acceso a aguadas naturales (tajamares). La oveja afectada, había nacido en agosto de 2013, en el establecimiento
+de Colonia. En marzo de 2014, fue trasladada, junto con 167
+corderos de aproximadamente 6 meses de edad, al establecimiento de Lavalleja y ahí permaneció por 11 meses hasta
+febrero de 2015, cuando regresó, junto con otras 341 ovejas,
+al establecimiento de origen en el departamento de Colonia.
+Clínicamente, la oveja presentó debilidad y obnubilación
+progresivas, exoftalmia del ojo derecho, secreción nasal mucosanguinolenta y torneo en las últimas 24 horas de vida.
+Las mucosas conjuntival, bucal y vulvar estaban pálidas. La
+frecuencia cardiaca era de 132 latidos/minuto (rango normal:
+60-120), la frecuencia respiratoria de 52 ciclos/minuto (rango normal: 12-72) y la temperatura rectal de 40,2°C (rango
+normal: 39-40°C). La oveja murió después de un curso clínico de 15 días, durante el cual fue tratada con bencilpenicilina
+procaínica (100.000 UI/kg) y sulfato de dihidroestreptomicina (12.5 mg/kg) intramuscular (IM) cada 3 días (3 aplicaciones). Además, con cada aplicación de antibióticos, se
+administró dexametazona (0,25 mg/kg) IM. No se observó
+mejoría clínica en respuesta al tratamiento. En el establecimiento de Colonia no había antecedentes de casos clínicos
+similares; sin embargo, se habían observado animales con
+sintomatología similar en el establecimiento de Lavalleja.
+A la necropsia, la carcasa tenía condición corporal delgada,
+sin depósitos significativos de grasa corporal y los tejidos se
+encontraban en buen estado de preservación postmortem. Al
+remover la piel de la región facial, en la zona de congruencia
+de los huesos lagrimal, zigomático y maxilar derechos (Figura 1A) y en la zona frontal derecha, había dos áreas circulares, de bordes bien delimitados, de aproximadamente 2 cm
+de diámetro, de color amarillento/amarronado y consistencia
+firme a blanda, que se extendían en forma transmural desde la
+cavidad nasal y seno paranasal frontal hacia el tejido subcu-
+
+Materiales y métodos
+El caso ocurrió en marzo de 2015 en una oveja perteneciente
+a un establecimiento ubicado en el departamento de Colonia,
+Uruguay. Durante los meses de diciembre de 2014 a marzo
+de 2015, la humedad relativa media en esta zona fue de 75%,
+la precipitación acumulada hasta marzo de 200 mm y las
+temperaturas medias diarias de 22°C (INIA GRAS, 2016).
+El establecimiento tenía una superficie de 140 has., de las
+cuales 100 eran destinadas a la cría de ovinos. Las existencias aproximadas eran de 200 corderos y 800 ovinos adultos
+de diversas razas, incluyendo Ideal, Texel, Finnish Landrace,
+Frisona Milchschaf, Corriedale y cruzas. La alimentación era
+en base a praderas mixtas de trébol rojo (Trifolium pratense),
+alfalfa (Medicago sativa) y cebadilla (Bromus catharticus)
+y cultivos anuales de raigrás (Lolium multiflorum) y avena
+(Avena sativa), con suplementación de granos, principalmente sorgo (Sorghum bicolor).
+Sólo una oveja manifestó enfermedad y fue clínicamente
+examinada y necropsiada luego de morir espontáneamente.
+Durante el examen postmorten, realizado en INIA La Estanzuela, se colectaron muestras de tejidos de la mucosa nasal,
+tejido subcutáneo de la región facial, encéfalo, lengua, músculo esquelético, linfonódulos submandibulares y retrofaríngeos y órganos de las cavidades abdominal y torácica.
+Las muestras fueron fijadas en solución de formol tampo-
+
+27
+
+táneo suprayacente. En la cavidad nasal y senos paranasales
+derechos se observaron áreas de superficie rugosa y bordes
+poco definidos, de 6 x 4 x 2 cm, de color marrón amarillento
+y consistencia friable, mezclado con un exudado mucosanguinolento, que estaba adherido a los cornetes nasales del
+lado derecho y a la pared nasal y sinusal circundantes. Estas
+lesiones abarcaban la mayor parte de la cavidad nasal posterior del lado derecho, desplazando al tabique nasal desde la
+línea media hacia el lado izquierdo, extendiéndose hacia los
+senos paranasales frontal y maxilar del lado derecho (Figura
+1B) y caudalmente hasta la placa cribosa del etmoides y la
+porción rostral de la cavidad craneana. Se observó hemorragia en los linfonódulos retrofaríngeos, congestión meníngea
+en el cerebro, petequias endo y epicárdicas, y severa congestión y edema difusos en el pulmón.
+Microscópicamente, las lesiones consistieron en rinosinusitis y celulitis facial granulomatosa y necrotizante, multifocal
+extensiva, severa, crónica y con presencia de hifas intralesio-
+
+nales. Los granulomas presentaban un centro necrótico (Figura 1C), con detritus celulares eosinofílicos y restos cariorrécticos, que contenía figuras tubulares, semejantes a hifas,
+que no se coloreaban con HE. Rodeando las hifas había un
+material amorfo eosinofílico típico de la reacción de Splendori-Hoeppli. En la periferia de los centros necróticos había
+un infiltrado inflamatorio constituido por neutrófilos, macrófagos, linfocitos, células plasmáticas, células gigantes multinucleadas y escasos eosinófilos (Figura 1C). Externamente,
+estos granulomas estaban separados por áreas de fibrosis.
+Con las tinciones de GMS y PAS las hifas presentaban un
+diámetro de hasta 16 micras, con paredes no paralelas, ramificaciones dicotómicas en ángulo recto, septos infrecuentes
+y dilataciones bulbosas de hasta 12 micras. Algunos vasos
+sanguíneos presentaban vasculitis y trombosis (Figura 1D)
+con presencia de hifas fúngicas (Figura 1E). Por IHQ estas
+hifas fueron positivas a la inmunomarcación para Conidiobolus spp. (Figura 1F).
+
+Figura 1. Ovino. Conidiobolomicosis. A. Cabeza desprovista de piel, vista lateral derecha. Se observa un foco de osteítis
+necrotizante en la zona de conjunción de los huesos lagrimal, zigomático y maxilar derecho (flecha). B. Cabeza desprovista
+de piel, sección transversal en la región posterior de la cavidad nasal y senos, vista frontal. Rinosinusitis necrotizante severa extensiva del lado derecho (flecha) con desviación del septo nasal (asterisco). C. Rinitis granulomatosa con focos de
+necrosis (asteriscos), reacción de Splendore-Hoeppli y células gigantes multinucleadas (flecha). Coloración de HE, barra =
+50 µm. D. Lesión nasal de conidiobolomicosis mostrando un vaso sanguíneo con vasculitis y trombosis. Coloración de HE,
+barra = 50 µm. E. Corte histológico del área mostrada con un rectángulo en la Figura D. Se observa una hifa con morfología
+característica de Conidiobolus spp. Coloración de GMS, barra = 20 µm. F. Inmunohistoquímica con un anticuerpo primario
+anti-Conidiobolus lamprauges, marcación de una hifa (flecha) dentro del citoplasma de una célula gigante. Estreptavidinabiotina-peroxidasa, barra = 20 µm.
+
+28
+
+Discusión
+
+Agradecimientos
+
+En este caso, los hallazgos clínicos, las lesiones macroscópicas y su localización anatómica, la naturaleza de las lesiones
+microscópicas, junto a la morfología y el diámetro de las hifas permitieron sospechar de conidiobolomicosis, diagnóstico que se confirmó por la identificación del agente mediante
+inmunohistoquímica. Estos hallazgos fueron semejantes a
+las descritos en otros casos de conidiobolomicosis (Portela
+y col., 2010; Riet-Correa y col., 2008; Silva y col., 2007a;
+Ubiali y col., 2013). Una enfermedad similar a tener en cuenta en el diagnóstico diferencial es la pitiosis, causada por el
+oomiceto Pythium insidiosum (Portela y col., 2010; Ubiali
+y col., 2013). Ambas enfermedades se caracterizan por lesiones granulomatosas con hifas intralesionales rodeadas por
+material de Splendore-Hoeppli. Sin embargo, existen algunas diferencias en el tipo de lesiones microscópicas inducidas por estos agentes. El diámetro de las hifas observadas
+histológicamente dentro de los granulomas es de 8 a 20 micras para Conidiobolus spp. (Riet-Correa y col., 2008; Silva
+y col., 2007a), como se observó en este caso; mientras que el
+diámetro es de 4 a 7 micras en el caso de las hifas de Pythium
+insidiosum (Mauldin y Peters-Kennedy, 2015; Portela y col.,
+2010; Ubiali y col., 2013). De igual manera, la reacción de
+Splendore-Hoeppli es más discreta en los casos de pitiosis
+que en los de conidiobolomicosis (Riet-Correa y col., 2008;
+Ubiali y col., 2013). Asimismo, en la pitiosis la infiltración de
+eosinófilos es más prominente que en la conidiobolomicosis
+(Mauldin y Peters-Kennedy, 2015).
+En el caso aquí descripto, si bien los signos clínicos de conidiobolomicosis fueron observados cuando la oveja estaba
+de regreso en el establecimiento de Colonia, es posible que
+la enfermedad haya sido adquirida e incubada en el establecimiento de Lavalleja, teniendo en cuenta que las lesiones
+de conidiobolomicosis son aparentemente indoloras y, por
+lo tanto, la infección pudo haber ocurrido bastante tiempo
+antes de la detección de los signos clínicos (Riet-Correa y
+col., 2008). Un hecho a tener en cuenta es que en el establecimiento de Lavalleja, a diferencia del de Colonia, había antecedentes de casos clínicos similares, pero sin confirmación
+diagnóstica mediante estudios de laboratorio. El libre acceso
+de los ovinos a tajamares en el establecimiento de Lavalleja
+sugiere que la enfermedad podría ocurrir en condiciones semejantes a las que se presentan en Brasil, donde es endémica, en potreros con acceso permanente a los márgenes de las
+aguadas (Aguiar y col., 2014; Câmara y col., 2011; Mendonça y col., 2012; Silva y col., 2007b).
+La confirmación de un único caso de conidiobolomicois en
+ovinos del Uruguay sugiere que la enfermedad ocurre en forma esporádica en el país, semejante a lo que ocurre en el
+sur de Brasil (Furlan y col., 2010), Australia (Keterrer y col.,
+1992) y Trinidad y Tobago (Morris y col., 2001). Estudios
+adicionales son necesarios para tener una mejor comprensión
+de la epidemiología de esta enfermedad y su eventual impacto en la producción pecuaria en Uruguay.
+
+Los autores agradecen la colaboración de Yisell Perdomo
+(Instituto Nacional de Investigación Agropecuaria, La Estanzuela, Uruguay) por la asistencia técnica con el procesamiento histológico de las muestras.
+
+Bibliografía
+1.	 Aguiar GMN, Simões SVD, Santos SA, Marquez ALA,
+Da Silva TR, Dantas AFM, Riet-Correa F. (2014). Aspectos epidemiológicos da conidiobolomicose em ovinos na região semiárida do Norte do Brasil. Ciência
+Rural 44:2210-2214.
+2.	 Benerini Gatta L, Cadei M, Balzarini P, Castriciano S,
+Paroni R, Verzeletti A, Cortellini V, De Ferrari F, Grigolato P. (2012). Application of alternative fixatives to
+formalin in diagnostic pathology. Eur J Histochem 56:
+63-70.
+3.	 Boabaid FM, Ferreira EV, de Arruda LP, Gasparetto
+ND, de Souza RL, da Silva MC, Dutra V, Nakazato L,
+Colodel EM. (2008). Conidiobolomicose em ovinos no
+estado de Mato Grosso. Pesq Vet Bras 28: 77-81.
+4.	 Câmara ACL, Soto-Blanco B, Soares Batista J, Menezes
+do Vale A, Carneiro Feijó FM, Gomez Olinda R. (2011).
+Rhinocerebral and rhinopharyngeal conidiobolomycosis in sheep. Ciência Rural 41:862-868.
+5.	 Carrigan MJ, Small AC, Perry GH. (1992). Ovine nasal
+zygomycosis caused by Conidiobolus incongruus. Aust
+Vet J 69:237-240.
+6.	 Carson FL, Cappellano CH. (2015). Histotechnology: A
+self-instructional text, 4th ed. ASCP. Chapter 10: Microorganisms pp: 226-236.
+7.	 Carmo PMS. (2014). Doenças fúngicas e pitiose em
+ruminantes (Tesis Doctoral). Universidade Federal de
+Campina Grande, Centro de Saúde e Tecnologia Rural
+Campus de Patos, Paraiba, Brasil. pp: 18
+8.	 French RA, Ashworth CD. (1994). Zygomycosis caused
+by Conidiobolus coronatus in a llama (Lama glama).
+Vet Pathol 31:120-122.
+9.	 Furlan FH, Lucioli J, Veronezi LO, Fonteque JH, Traverso SD, Nakazato L, Gava L. (2010). Conidiobolomicose causada por Conidiobolus lamprauges em ovinos
+no estado de Santa Catarina. Pesq Vet Bras 30:529-532.
+10.	 Grooters AM. (2003). Pythiosis, lagenidiosis, and zygomycosis in small animals. Vet. Clin. North Am. Small
+Anim Pract 33:695-720.
+11.	 Hoogendijk CF, Van Heerden WFP, Pretorius E, Vismer
+HF, Jacobs JF. (2006). Rhino-orbitocerebral entomophthoramycosis. Int. J. Oral Maxillofac Surg 35:277-280.
+12.	 Humber R, Brown C, Kornegay R. (1989). Equine zygomycosis caused by C. lamprauges. J Clin Microbiol
+27:573-576.
+13.	 Instituto Nacional de Investigación Agropecuaria
+(INIA), Sistema de Información agroclimático (GRAS).
+Banco de datos agroclimático. http://www.inia.uy/investigaci%C3%B3n-e-innovaci%C3%B3n/unidades/
+GRAS/Clima/Banco-datos-agroclimatico.
+14.	 Ketterer PJ, Kelly MA, Connole MA, Ajello L. (1992).
+
+Conclusiones
+Este trabajo permite concluir que la conidiobolomicosis es
+una enfermedad presente en ovinos en Uruguay y que la misma podría ocurrir en forma esporádica. Esta condición debe
+ser considerada dentro del diagnóstico diferencial de rinitis
+en ovinos y otras especies.
+
+29
+
+15.	
+
+16.	
+
+17.	
+
+18.	
+
+19.	
+20.	
+
+21.	
+
+22.	
+
+23.	
+
+24.	
+
+25.	
+
+26.	
+
+27.	
+28.	
+
+29.	
+
+Rhinocerebral and nasal zygomycosis in sheep caused
+by Conidiobolus incongruus. Aust Vet J 69:85-87.
+Kimura M Yaguchi T Sutton DA Fothergill AW Thompson EH Wickes BL. (2011). Disseminated human conidiobolomycosis due to Conidiobolus lamprauges. J Clin
+Microbiol 49:752-756.
+Mackey PE, Cappe KG, Mani R, Rothenburg L, Sutton DA, Wiederhold NP., Linder J, Ramachandran A,
+Wall CR, Snider T. (2015). Disseminated Conidiobolus
+incongruus in a dog: A case report and literature review.
+Med Mycol Case Rep 8: 24-28.
+Mendonça FS., Albuquerque RF., Evêncio-Neto J, Dória RGS, Camargo LM, Freitas SH. (2012). Conidiobolomycosis in sheep in the State of Pernambuco. Rev
+Bras Med Vet 34:241-246.
+Mauldin E.A. & Peters-Kennedy J. (2015). Chapter 6.
+Integumentary System, pp. 659-660. In: Jubb, Kennedy
+and Palmer’s Pathology of Domestic Animals, Vol. 1,
+6th edition by M. Grant Maxie, ed. Saunders Elsevier,
+Philadelphia, USA.
+Morris M, Ngelac M., Adogwa AO, Lalla G, St Germain
+G, Higgins R. (2001). Rhinocerebral zygomicosis in a
+sheep. Can Vet J 42:227-228.
+Pedroso PMC, Raymundo DL, Bezerra JrPS, Oliveira
+EC, Sonne L, Dalto AGC, Driemeier D. (2009). Rinite
+micótica rinofaríngea em um ovino Texel no Rio Grande do Sul. Acta Sci Vet 37:49-52.
+Portela RA, Riet-Correa F, Garino JrF, Dantas AFM.,
+Simões SVD, Silva SMS. (2010). Doenças da cavidade
+nasal em ruminantes no Brasil. Pesq Vet Bras 30:844854.
+Riet-Correa F, Dantas AFM, Azevedo EO, Simões SDV,
+Silva SMS, Vilela R, Mendoza L. (2008). Outbreaks of
+rhinofacial and rhinopharyngeal zygomycosis in sheep
+in Paraíba, northeastern Brazil. Pesq Vet Bras 28:29-35.
+Silva MC, Godoy I, Ubiali DG, Silveira MM, Pitchenin
+LC, Brandão LNS, Dutra VD, Nakazato L. (2015). Proteínas inmunorreactivas de Conidiobolus lamprauges
+isoladas de ovinos infectados naturalmente. Pesq Vet
+Bras 35:344-348.
+Silva SMMS, Castro RS, Costa FAL, Vasconcelos AC,
+Batista MCS, Riet-Correa F, Carvalho EMS. (2007a).
+Conidiobolomycosis in sheep in Brazil. Vet Pathol
+44:314-319.
+Silva S.M.M.S., Castro R.S., Costa F.A.L., Vasconcelos
+A.C., Batista M.C.S., Riet-Correa F., Carvalho E.M.S.
+& Lopes J.B. (2007b). Epidemiologia e sinais clínicos
+da conidiobolomicose em ovinos no Estado do Piauí.
+Pesq. Vet Bras 27:184-190.
+Silveira MM, Paula DAJ, Silva MC, Pitchenin LC, Cruz
+RAS, Colodel EM, Dutra V, Nakazato L. (2013). Development and application of polymerase chain reaction
+test for detection of Conidiobolus lamprauges. Pesq Vet
+Bras 33:1448-1452.
+Stephens CP, Gibson JA. (1997). Disseminated zygomicosis caused by Conidiobolus incongrous in a deer. Aust
+Vet J 75:358-360.
+Taintor J, Crowe C, Hancock S, Schumacher J, Livesey
+L. (2004). Treatment of conidiobolomycosis with fluconazole in two pregnant mares. J Vet Inten Med 18:363364.
+Ubiali DG, Cruz RA, De Paula DA, Silva MC, Mendonça FS, Dutra V, Nakazato L, Colodel EM, Pescador CA.
+
+(2013). Pathology of nasal infection caused by Conidiobolus lamprauges and Pythium insidiosum in sheep. J
+Comp Path 149:137-145.
+30.	 Vilela R, Silva SMS, Riet-Correa F, Dominguez E,
+Mendoza L. (2010). Morphologic and phylogenetic
+characterization of Conidiobolus lamprauges recovered
+from infected sheep. J Clin Microbiol 48:427-432.
+31.	 Yang X, Li Y, Zhou X, Wang Y, Geng S, Liu H, Yang Q,
+Hiruma M, Sugita T, Ikeda S, Ogawa H. (2010). Rhinofacial conidiobolomycosis caused by Conidiobolus coronatus in a Chinese rice farmer. Mycoses 53:369-373
+
+30
+
+
