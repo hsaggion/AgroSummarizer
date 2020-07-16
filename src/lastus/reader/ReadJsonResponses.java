@@ -89,7 +89,7 @@ public class ReadJsonResponses {
 
             String txt=(String) obj5.get("texto");
             
-            System.out.println(txt);
+       //     System.out.println(txt);
             docs[i]=txt;
             i++;
          }
